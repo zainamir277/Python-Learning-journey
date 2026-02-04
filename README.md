@@ -1,10 +1,25 @@
-# Pass/Fail Program (Python)
+# Python Learning Journey 🐍
 
-This is a beginner Python program that determines whether a student passes or fails 
-based on percentage and attendance. The program includes grace attendance logic.
+This repository documents my journey of learning Python fundamentals through small practice programs.
+Each program focuses on improving logic, condition handling, and input validation.
 
-## Concepts Used
-- Variables
-- User input
-- Arithmetic operations
-- Conditional statements
+## Programs Included
+
+### 1. Pass/Fail with Attendance
+- Determines pass or fail based on percentage and attendance
+- Adds grace attendance if eligibility conditions are met
+- Concepts used:
+  - Variables
+  - User input
+  - Arithmetic operations
+  - Conditional statements
+
+### 2. Grading System
+- Calculates percentage from obtained and total marks
+- Assigns grades (A+ to F) based on percentage
+- Includes validation for invalid inputs (negative values, zero total marks)
+- Concepts used:
+  - Input validation
+  - Chained comparisons
+  - Conditional logic
+
