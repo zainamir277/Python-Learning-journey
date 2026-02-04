@@ -23,3 +23,10 @@ Each program focuses on improving logic, condition handling, and input validatio
   - Chained comparisons
   - Conditional logic
 
+### 3.Even/Odd System
+- Find even/odd number using logic (n%2==0 , true for evens)
+- Includes validation for invalid inputs (negative values, zero input)
+- Consepts used:
+ - Input validation
+ - Loops
+ - Conditional Statments
