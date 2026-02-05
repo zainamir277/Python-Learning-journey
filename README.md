@@ -30,3 +30,8 @@ Each program focuses on improving logic, condition handling, and input validatio
  - Input validation
  - Loops
  - Conditional Statments
+### 4.Fibonacci Series
+- Find Fibonacci series upto the index entered by user
+- Consepts ussed:
+ - Input Function
+ - Loops
