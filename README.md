@@ -23,13 +23,13 @@ Each program focuses on improving logic, condition handling, and input validatio
   - Chained comparisons
   - Conditional logic
 
-### 3.Even/Odd System
-- Find even/odd number using logic (n%2==0 , true for evens)
+### 3.Even/Odd/Prime Finder System
+- Find even/odd/Prime number using logic (n%2==0 , true for evens)(n%i!=0, True for prime numbers)
 - Includes validation for invalid inputs (negative values, zero input)
 - Consepts used:
  - Input validation
  - Loops
- - Conditional Statments
+ - Multiple Conditional Statments
 ### 4.Fibonacci Series
 - Find Fibonacci series upto the index entered by user
 - Consepts ussed:
