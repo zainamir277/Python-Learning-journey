@@ -32,6 +32,14 @@ Each program focuses on improving logic, condition handling, and input validatio
  - Multiple Conditional Statments
 ### 4.Fibonacci Series
 - Find Fibonacci series upto the index entered by user
-- Consepts ussed:
+- Consepts used:
  - Input Function
  - Loops
+ ### 5.Lists
+- Make an empty list and take input from user to fill the list
+- Consepts Used:
+ - Lists
+ - User Input
+ - For Loop
+ - append() method
+ - Basic Python syntax
