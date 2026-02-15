@@ -57,7 +57,7 @@ Each program focuses on improving logic, condition handling, and input validatio
  - Dictionary
  - for loop
  - pop method of the dictionary
- ### 8.DataBase + Functions
+ ### 8.DataBase + Functions (Open in jupyter notpad)
  - Write a Python Program to make a database of a hospital management system containing Patient name, address, phone, doctor name, visit date, and remarks.
  - ADD/Remove/Update Patient details
  - Concepts used:
