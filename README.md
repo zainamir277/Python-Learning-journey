@@ -57,7 +57,17 @@ Each program focuses on improving logic, condition handling, and input validatio
  - Dictionary
  - for loop
  - pop method of the dictionary
- ### 8.DataBase + Functions (Open in jupyter notpad)
+
+ ### 8.Game Function Using File I/O
+ - write the game function in a program lets a user play a game and returns the score as an integer.
+ You need to read a file Hi-score.txt which is either blank or contains the previous Hi-score. 
+ You need to write a program to update the high score whenever the game() function breaks the high score.
+ - Concepts Used:
+  - Functions
+  - File I/O
+  - Conditional statments
+
+ ### 9.DataBase + Functions (Open in jupyter notpad)
  - Write a Python Program to make a database of a hospital management system containing Patient name, address, phone, doctor name, visit date, and remarks.
  - ADD/Remove/Update Patient details
  - Concepts used:
